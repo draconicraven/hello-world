@@ -6,3 +6,5 @@ I like tooling around with different operating system setups. Unfortunately, I a
 This edit is being made on a local machine to try out a git client.
 
 I'm adding this edit to try out GitAhead. It seems that GitKraken is a little too restrictive, for my taste, with its free version.
+
+Ok, hopefully, this will be the last test. Trying out Gitg now, first impression is very good. Nice-looking, strightforward interface that is easy to read and find things.
